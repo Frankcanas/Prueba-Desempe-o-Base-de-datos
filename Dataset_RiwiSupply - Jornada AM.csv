@@ -1,0 +1,20 @@
+MovementDate,SupplierName,SupplierCity,Warehouse,WarehouseCity,ProductName,Category,Quantity,UnitPrice,MovementType,PurchaseOrder
+2026-04-01,Aceros del Norte S.A.S,Cartagena,Bodega Costa,Santa Marta,Disco de Corte 4.5,Herramienta,148,115388,OUT,PO-1049
+2026-02-14,Aceros del Norte S.A.S,Cartagena,Bodega Costa,Santa Marta,Electrodo E6013,Consumible,27,35506,IN,PO-1041
+2026-01-01,Industriales SAS,Barranquilla,Bodega Costa,Santa Marta,Guante Nitrilo,EPP,70,14290,IN,PO-1022
+2026-02-16,Aceros del Norte S.A.S,Cartagena,Centro Logistico Norte,Cartagena,Guantes de Nitrilo,Elementos Protección,160,117524,IN,PO-1075
+2026-02-28,Industriales S.A.S,Barranquila,Bodega Central,Barranquilla,Electrodo E6013,Consumible,40,139836,OUT,PO-1091
+2026-03-06,Aceros del Norte S.A.S,Cartagena,Bod. Central,Barranquila,Disco de Corte 4.5,Herramienta,130,88512,OUT,PO-1041
+2026-01-20,Aceros del Norte,Cartagena,Bodega Central,Barranquilla,Soldadura E6013,Consumibles,33,43746,OUT,PO-1059
+2026-04-13,INDUSTRIALES SAS,B/quilla,Bodega Costa,Santa Marta,Guante Nitrilo,EPP,119,23022,OUT,PO-1035
+2026-04-17,Suministros Global SAS,Sta Marta,Bod. Central,Barranquila,Guantes de Nitrilo,Elementos Protección,185,123653,IN,PO-1032
+2026-02-02,Suministros Global SAS,Sta Marta,Bod. Central,Barranquila,Electrodo E6013,Consumible,87,123108,OUT,PO-1009
+2026-05-23,ACEROS NORTE,Ctg,Bodega Costa,Santa Marta,Guantes de Nitrilo,Elementos Protección,175,39944,IN,PO-1040
+2026-03-19,Aceros del Norte S.A.S,Cartagena,Bod. Central,Barranquila,Disco Corte 4.5,Herramientas,199,118291,OUT,PO-1023
+2026-01-25,INDUSTRIALES SAS,B/quilla,Centro Logistico Norte,Cartagena,Guante Nitrilo,EPP,131,71980,OUT,PO-1029
+2026-03-15,ACEROS NORTE,Ctg,Bodega Costa,Santa Marta,Disco de Corte 4.5,Herramienta,134,89964,OUT,PO-1035
+2026-03-12,Industriales SAS,Barranquilla,Bodega Central,Barranquilla,Disco Corte 4.5,Herramientas,124,52910,IN,PO-1094
+2026-04-26,INDUSTRIALES SAS,B/quilla,Bodega Central,Barranquilla,Disco Corte 4.5,Herramientas,61,136736,IN,PO-1034
+2026-03-03,INDUSTRIALES SAS,B/quilla,Centro Logistico Norte,Cartagena,Disco de Corte 4.5,Herramienta,169,18022,OUT,PO-1043
+2026-03-21,Aceros del Norte,Cartagena,Bodega Costa,Santa Marta,Casco Industrial,EPP,192,108802,OUT,PO-1083
+2026-03-11,Aceros del Norte,Cartagena,Centro Logistico Norte,Cartagena,Electrodo E6013,Consumible,78,37943,OUT,PO-1036
