@@ -8,7 +8,7 @@
 
 **Developer information:**
 - **Full name:** Frank
-- **Clan:** [Enter your clan here]
+- **Clan:** garabato
 
 ## Explanation of normalization process
 
